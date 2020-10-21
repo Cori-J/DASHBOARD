@@ -1,4 +1,9 @@
 # DASHBOARD
 Portafolio de DASHBOARDs
 
-Se presentan trabajos de business intelligence, con diferentes softwares de analitica.
+Se presentan trabajos de business intelligence, con diferentes softwars de analitica:
+* Excel
+* PowerPoint
+* R
+* Python
+
